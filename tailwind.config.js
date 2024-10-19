@@ -19,4 +19,5 @@ export default {
     },
 
     plugins: [forms],
+    //je voulais voir si je pouvais apporter des modifs a ton dossier
 };
